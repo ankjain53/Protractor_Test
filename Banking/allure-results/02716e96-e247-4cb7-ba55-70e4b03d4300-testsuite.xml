@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537274643291' stop='1537274682383'>
+    <name>Banking Application Login Test--AS a Customer</name>
+    <title>Banking Application Login Test--AS a Customer</title>
+    <test-cases>
+        <test-case start='1537274643306' status='passed' stop='1537274660312'>
+            <name>Login as Customer</name>
+            <title>Login as Customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c91c7245-e3db-40c8-a1cc-4a682fa2290a-attachment.png' type='image/png' size='20633'/>
+            </attachments>
+        </test-case>
+        <test-case start='1537274660328' status='passed' stop='1537274667081'>
+            <name>Desposit Money To Account</name>
+            <title>Desposit Money To Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b844488c-53d5-4455-b05f-54306acb46f8-attachment.png' type='image/png' size='26734'/>
+            </attachments>
+        </test-case>
+        <test-case start='1537274667081' status='passed' stop='1537274673842'>
+            <name>WithDrawal Money from Account</name>
+            <title>WithDrawal Money from Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='edb2327f-e0cb-46df-b04f-15f9f5c87a37-attachment.png' type='image/png' size='26933'/>
+            </attachments>
+        </test-case>
+        <test-case start='1537274673842' status='passed' stop='1537274682368'>
+            <name>Transcations History from Account</name>
+            <title>Transcations History from Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='57c780ee-f958-4491-8746-488c212bdc87-attachment.png' type='image/png' size='14469'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1534158198200' stop='1534158220786'>
+    <name>angularjs homepage Functionality Check</name>
+    <title>angularjs homepage Functionality Check</title>
+    <test-cases>
+        <test-case start='1534158198202' status='passed' stop='1534158220784'>
+            <name>Functionality Check</name>
+            <title>Functionality Check</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1fdf64b2-622a-4aee-bae1-0666c4e95f86-attachment.png' type='image/png' size='112919'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

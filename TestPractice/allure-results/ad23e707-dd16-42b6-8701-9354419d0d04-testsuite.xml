@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1534742099123' stop='1534742104144'>
+    <name>Googel Login</name>
+    <title>Googel Login</title>
+    <test-cases>
+        <test-case start='1534742099123' status='passed' stop='1534742104127'>
+            <name>should have a title</name>
+            <title>should have a title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e87ae4d4-7d24-4dd6-9da6-9af7a1b985e9-attachment.png' type='image/png' size='27482'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
